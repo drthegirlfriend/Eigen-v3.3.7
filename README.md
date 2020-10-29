@@ -1,4 +1,4 @@
-This my current fork of Eigen 3.3.7 to run on an ESP32, I expect little changes from the original port, but some may happen as things develop, as of 29.10.20 the library does compile and work on esp32.
+This my current fork of Eigen 3.3.7 to run on an ESP32, I expect little changes from the original port, but some may happen as things develop and bugs show up, as of 29.10.20 the library does compile and work on esp32.
 
 
 # Eigen-v3.3.7
